@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>List Produk</h1>
+
+    <div class="search-bar">
+        <input type="text" placeholder="Search...">
+        <button type="submit">Search</button>
+    </div>
+
+    <div class="container">
+        <div class="cart">
+            <button id="cart-button">&#128722;</button>
+            <div class="cart-count">
+                <span id="item-count"></span> Items
+            </div>
+            <div class="product-list"></div>
+        </div>
+    </div>
+      
+
+    <div class="cart-modal" id="cart-modal">
+        <div class="overlay"></div>
+        <div class="modal-content">
+            <h2>Keranjang</h2>
+            <div class="cart-items"></div>
+            <div class="controls">
+                <button class="close-button">Close</button>
+                <button class="checkout-button">Checkout</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": "Rp.750.000",
+    "image": "img/p1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch Series 8",
+    "price": "Rp.3.200.000",
+    "image": "img/p2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "4K Ultra HD Smart TV",
+    "price": "Rp.6.400.000",
+    "image": "img/p3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Portable SSD 1TB",
+    "price": "Rp.1.500.000",
+    "image": "img/p4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Gaming Keyboard",
+    "price": "Rp.980.000",
+    "image": "img/p5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "FHD Monitor 24 inch",
+    "price": "Rp.890.000",
+    "image": "img/p6.jpg"
+  }
+]
